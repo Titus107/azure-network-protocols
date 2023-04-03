@@ -31,7 +31,7 @@ In this lab, we observe various network traffic to and from Azure Virtual Machin
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+First, we create a resource group in Azure followed by two virtual machines. One running Windows 10, the other running an Ubuntu server. We set them to access the same resource group, use the same region, and share the same network. Next, we can remotely connect into the Windows 10 VM. 
 </p>
 <br />
 
