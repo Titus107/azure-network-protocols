@@ -49,6 +49,6 @@ After connecting to the Windows 10 VM, navigate to the Wireshark website and dow
 <p>
 Open Wireshark, filter traffic through various protocols such as ICMP, SSH, DHCP, etc. 
 Started by grapping the private IP address of the Ubuntu Server VM and pinging it then monitoring ICMP traffic. 
-Ping both the Ubuntu server and websites such as www.google.com. 
+We can do the same for DNS for example by using nslookup in the command line for a website and observing the traffic through the DNS filter.
 </p>
 <br />
