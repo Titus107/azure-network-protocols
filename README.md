@@ -44,9 +44,11 @@ After connecting to the Windows 10 VM, navigate to the Wireshark website and dow
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kiE8lmQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open Wireshark, filter traffic through various protocols such as ICMP, SSH, DHCP, etc. 
+Started by grapping the private IP address of the Ubuntu Server VM and pinging it then monitoring ICMP traffic. 
+Ping both the Ubuntu server and websites such as www.google.com. 
 </p>
 <br />
